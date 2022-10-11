@@ -8,7 +8,7 @@
 ### Language and Tools
 ![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=Redmine)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
+[![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)](https://github.com/Oleksandr-Kryvenko/Postman)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Mantis](https://img.shields.io/badge/-Mantis-090909?style=for-the-badge&logo=Mantis)
 ![TestLink](https://img.shields.io/badge/-TestLink-090909?style=for-the-badge&logo=Testlink)
@@ -22,7 +22,7 @@
 - [Test-Suites and Test-Cases](Link)
 - [Bug-Reports](Link)
 - [SQL Queries](Link)
-- [Postman Collections](Link)
+- [Postman Collections](https://github.com/Oleksandr-Kryvenko/Postman)
 
 🌱 I’m currently learning
 
