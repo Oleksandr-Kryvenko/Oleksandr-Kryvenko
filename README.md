@@ -19,9 +19,9 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/Oleksandr-Kryvenko/Checklists)
-- [Test-Suites and Test-Cases](Link)
-- [Bug-Reports](Link)
-- [SQL Queries](Link)
+- [Test-Suites and Test-Cases](https://github.com/Oleksandr-Kryvenko/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/Oleksandr-Kryvenko/Bug-Reports)
+- [SQL Queries](https://github.com/Oleksandr-Kryvenko/SQL-Queries)
 - [Postman Collections](https://github.com/Oleksandr-Kryvenko/Postman)
 
 🌱 I’m currently learning
