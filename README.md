@@ -14,7 +14,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo)
 
 ### Testing Documentation
 
