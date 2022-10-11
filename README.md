@@ -18,7 +18,7 @@
 
 ### Testing Documentation
 
-- [Checklists](Link)
+- [Checklists](https://github.com/Oleksandr-Kryvenko/Checklists)
 - [Test-Suites and Test-Cases](Link)
 - [Bug-Reports](Link)
 - [SQL Queries](Link)
