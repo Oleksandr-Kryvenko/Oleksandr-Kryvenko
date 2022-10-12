@@ -26,7 +26,7 @@
 
 🌱 I’m currently learning
 
-![VadimKsendzov](https://img.shields.io/badge/-Vadim`s_Ksendzov_QA_courses-090909?style=for-the-badge&logo=QA&logoColor=00618a)
+![VadimKsendzov](https://img.shields.io/badge/-Vadim_Ksendzov`s_QA_courses-090909?style=for-the-badge&logo=QA&logoColor=00618a)
 
 
 ### Follow Me
