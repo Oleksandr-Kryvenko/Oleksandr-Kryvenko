@@ -23,6 +23,7 @@
 - [Bug-Reports](https://github.com/Oleksandr-Kryvenko/Bug-Reports)
 - [SQL Queries](https://github.com/Oleksandr-Kryvenko/SQL-Queries)
 - [Postman Collections](https://github.com/Oleksandr-Kryvenko/Postman)
+- [JavaScript](https://github.com/Oleksandr-Kryvenko/JavaScript)
 
 🌱 I’m currently learning
 
