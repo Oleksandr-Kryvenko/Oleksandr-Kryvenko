@@ -3,7 +3,7 @@
 ## I`m a beginner QA Engineer.
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1txeR-U0p46IZ_6hZx7QilNBNWfg8oYFX/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1Uo6uOiuvdC2eDkp032Gfb9fmHyqFWbaQ/view?usp=sharing)
 
 ### Language and Tools
 ![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=Redmine)
